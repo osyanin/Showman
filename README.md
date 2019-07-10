@@ -1,12 +1,10 @@
-revo-autotest  
+Showman - проект с примерами моих автотестов.  
 
-Установка oracle-java8, Ubuntu:
-
-`sudo add-apt-repository pa:openjdk-r/ppa`
+Установка openjdk-java8, Ubuntu:
 
 `sudo apt update`
 
-`sudo apt install openjdk-11-jdk:amd64`
+`sudo apt install openjdk-11-jdk`
 
 `sudo update-alternatives --config java`
 
