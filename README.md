@@ -4,7 +4,7 @@ Showman - проект с примерами моих автотестов.
 
 `sudo apt update`
 
-`sudo apt install openjdk-11-jdk`
+`sudo apt install openjdk-8-jdk`
 
 `sudo update-alternatives --config java`
 
