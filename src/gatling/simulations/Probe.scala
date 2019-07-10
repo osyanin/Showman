@@ -5,8 +5,8 @@ import io.gatling.http.protocol.HttpProtocolBuilder
 
 class Probe extends Simulation {
 
-  //val httpConf = http.baseUrl("https://revo.ru/client_cabinet/hs?api_key=MX8VXuuudchJULWFMgV72KjEZe3UT4BH")
-  val httpConf: HttpProtocolBuilder = http.baseUrl("https://site.st.revoup.ru")
+  //val httpConf = http.baseUrl("")
+  val httpConf: HttpProtocolBuilder = http.baseUrl("https://")
 
   val scn: ScenarioBuilder = scenario("Basic Simulation")
     .exec(http("request_1")
