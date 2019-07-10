@@ -35,7 +35,7 @@ revo-autotest
 
 Конфиги окружений лежат в папке conf в корне проекта. 
 
-Значения по умолчанию: `env=staging`, `callback_ip=app20-qa.revoup.ru` 
+Значения по умолчанию: `env=staging`, `callback_ip=127.0.0.1` 
 
 Посмотреть-изменить можно в - `gradle.properties`
 
